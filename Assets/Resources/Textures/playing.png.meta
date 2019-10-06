@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 9f6bbc6431941a448bb8618d0ab56334
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playing_0
+    21300002: playing_1
+    21300004: playing_2
+    21300006: playing_3
+    21300008: playing_4
+    21300010: playing_5
+    21300012: playing_6
+    21300014: playing_7
+    21300016: playing_8
+    21300018: playing_9
+    21300020: playing_10
+    21300022: playing_11
+    21300024: playing_12
+    21300026: playing_13
+    21300028: playing_14
+    21300030: playing_15
+    21300032: playing_16
+    21300034: playing_17
+    21300036: playing_18
+    21300038: playing_19
+    21300040: playing_20
+    21300042: playing_21
+    21300044: playing_22
+    21300046: playing_23
+    21300048: playing_24
+    21300050: playing_25
+    21300052: playing_26
+    21300054: playing_27
+    21300056: playing_28
+    21300058: playing_29
+    21300060: playing_30
+    21300062: playing_31
+    21300064: playing_32
+    21300066: playing_33
+    21300068: playing_34
+    21300070: playing_35
+    21300072: playing_36
+    21300074: playing_37
+    21300076: playing_38
+    21300078: playing_39
+    21300080: playing_40
+    21300082: playing_41
+    21300084: playing_42
+    21300086: playing_43
+    21300088: playing_44
+    21300090: playing_45
+    21300092: playing_46
+    21300094: playing_47
+    21300096: playing_48
+    21300098: playing_49
+    21300100: playing_50
+    21300102: playing_51
+    21300104: playing_52
+    21300106: playing_53
+    21300108: playing_54
+    21300110: playing_55
+    21300112: playing_56
+    21300114: playing_57
+    21300116: playing_58
+    21300118: playing_59
+    21300120: playing_60
+    21300122: playing_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: playing_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 990
+        width: 890
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_1
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 893
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 956
+        width: 890
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 922
+        width: 890
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 888
+        width: 890
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 854
+        width: 890
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_6
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 764
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 793
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 787
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 604
+        width: 100
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 812
+        width: 208
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 812
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 606
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_14
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 760
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 766
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 768
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 764
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 767
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 745
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 770
+        width: 207
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_21
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 343
+        width: 158
+        height: 421
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 591
+        width: 219
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 714
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_26
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 711
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_27
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 641
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 692
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 660
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_30
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 662
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 667
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 471
+        width: 24
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 607
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_34
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 624
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_35
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 514
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 472
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 442
+        width: 197
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_38
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 553
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_39
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 457
+        width: 197
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 578
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_41
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 575
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_42
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 496
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 348
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 444
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_45
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 309
+        width: 198
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 294
+        width: 197
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 392
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 340
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_49
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 236
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 155
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 236
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_52
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 163
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 190
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_54
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 48
+        width: 182
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_55
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 40
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 172
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_58
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_60
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 5
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playing_61
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 12
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
